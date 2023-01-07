@@ -1,19 +1,33 @@
-# Calculator App Using JavaScript
+## ⭐ Calculator App Using JavaScript ⭐
 
-This Calculator web app is made using Html CSS and JavaScript with Dark and light mode.
-## Live Project Demo:
+⭕ **This Site is Fully Responsive**
+<br>
+<br>
 
-https://tawhidkomol.github.io/calculator-using-html-css-js/
+## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
 
-## Project Screenshots
+<br>
 
-![App Screenshot](https://github.com/TawhidKomol/calculator-using-html-css-js/blob/main/assets/Screenshot%202022-06-24%20205006.png?raw=true)
-![App Screenshot](https://github.com/TawhidKomol/calculator-using-html-css-js/blob/main/assets/Screenshot%202022-06-24%20205046.png?raw=true)
+## 📌 Tech Stack
 
-## My Profile Links
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/prakash-naikwadi)
+<br>
+<br>
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tawhidkomol.github.io/Portfolio/index.html)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhid-komol-88a43b1a0//)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TawhidKomol/)
-[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/towhid.komol/)
-[![facebook](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/towhid_komol/)
+## 📌 Overview
+
+<br>
+
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
+
+## 📌 Acknowledgments
+
+- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+
