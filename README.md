@@ -22,8 +22,8 @@
 
 <br>
 
-![Screenshot](./assets/Screenshot 2022-06-24 205006.png?raw=true "Template Screenshot")
-![Screenshot](./assets/Screenshot 2022-06-24 205046.png?raw=true "Template Screenshot")
+![Screenshot](./assets/Screenshot1.png?raw=true "Template Screenshot")
+![Screenshot](./assets/Screenshot2.png?raw=true "Template Screenshot")
 
 ## 📬 Connect With Me
 
