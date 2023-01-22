@@ -1,6 +1,8 @@
-## ⭐ Calculator App Using JavaScript ⭐
+# Calculator App Using JavaScript
 
 ⭕ **This Site is Fully Responsive**
+⭕ **This Site is Consist of Dark & Light Mode**
+
 <br>
 <br>
 
