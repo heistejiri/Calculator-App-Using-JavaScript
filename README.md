@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://heistejiri.github.io/Calculator-App-Using-JavaScript/">**Visit Now** 🚀</a>
+## 📌 **Live Site at URL:** <a href="https://heistejiri.github.io/Calculator-App-Using-JavaScript/">**Visit Now** 🚀</a>
 
 <br>
 
